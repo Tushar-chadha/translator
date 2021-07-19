@@ -1,9 +1,8 @@
 import 'dart:ui';
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:theTranslator/construcors/words.dart';
+import 'package:theTranslator/lists/words.dart';
 import 'package:theTranslator/logic/translatePage.dart';
 
 class TranslatePageUi extends StatefulWidget {
